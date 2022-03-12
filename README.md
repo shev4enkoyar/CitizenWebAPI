@@ -1,5 +1,6 @@
 ### CitizenWebAPI
 Тестовый проект был загружен на хостинг: https://coffemint.space/api/citizen/get
+
 Использовал базу данных MSSQL
 
 Для получения одной сущности исползуется запрос такого формата __/api/citizen/get/{id}__ (Пример: https://coffemint.space/api/citizen/get/ajkvdnLdj22po11)
