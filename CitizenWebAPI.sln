@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenWebAPI", "CitizenWebAPI\CitizenWebAPI.csproj", "{3EC64B84-5A1C-418A-9762-729DFCA9D205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenWebAPI.Tests", "CitizenWebAPI.Tests\CitizenWebAPI.Tests.csproj", "{6FFB0B85-F87B-4483-8975-9BCE71B3B903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC64B84-5A1C-418A-9762-729DFCA9D205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC64B84-5A1C-418A-9762-729DFCA9D205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC64B84-5A1C-418A-9762-729DFCA9D205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC64B84-5A1C-418A-9762-729DFCA9D205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFB0B85-F87B-4483-8975-9BCE71B3B903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFB0B85-F87B-4483-8975-9BCE71B3B903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFB0B85-F87B-4483-8975-9BCE71B3B903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFB0B85-F87B-4483-8975-9BCE71B3B903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F57517-E75B-4C3B-8E8A-B8918A843CC9}
+	EndGlobalSection
+EndGlobal
