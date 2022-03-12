@@ -51,7 +51,7 @@ namespace CitizenWebAPI.Controllers
         }
 
         [NonAction]
-        public BadRequestObjectResult CheckSettingsPage(string sex, int page, int pageSize)
+        private BadRequestObjectResult CheckSettingsPage(string sex, int page, int pageSize)
         {
             if (page < 1)
                 return BadRequest("Page cannot be less than 1");
