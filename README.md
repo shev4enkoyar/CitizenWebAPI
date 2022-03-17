@@ -1,5 +1,4 @@
 ### CitizenWebAPI
-Тестовый проект был загружен на хостинг: https://coffemint.space/api/citizen/get
 
 Использовал базу данных MSSQL
 
